@@ -28,8 +28,8 @@ data set is 2+ Gb. There are other sets available (e.g., cal fire, world data ba
 social media mining). 
 
 # References
-• See threading and MPI lecture references
-• Mpi4py: https://mpi4py.readthedocs.io/en/stable/
-• https://e-l.unifi.it/pluginfile.php/625533/mod_resource/content/0/MPI_COURSE.pdf
-• https://web.cels.anl.gov/~thakur/sc17-mpi-tutorial/slides.pdf
-• Perspective: https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it
+See threading and MPI lecture references
+- Mpi4py: https://mpi4py.readthedocs.io/en/stable/
+- https://e-l.unifi.it/pluginfile.php/625533/mod_resource/content/0/MPI_COURSE.pdf
+- https://web.cels.anl.gov/~thakur/sc17-mpi-tutorial/slides.pdf
+- Perspective: https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it
