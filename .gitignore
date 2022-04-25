@@ -135,3 +135,12 @@ dmypy.json
 .idea/research-lab-3.iml
 *.xml
 *.xml
+*.out
+mpi-c/a.out
+*.out
+*.plist
+.vscode/c_cpp_properties.json
+mpi-c/a.out
+*.py
+main.py
+mpi-c/a.out
